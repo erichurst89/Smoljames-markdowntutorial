@@ -23,6 +23,6 @@ Only the most *amazing* recipes that will sooth any life quarrels that you may b
 ### Relevant pictures
 
 1. Mac and cheese
-2. [Spag bowl] (https://www.countdown.co.nz/Content/Recipes/230232-Classic-SpagBol_810x520.jpg)
+2. [Spag bowl](https://www.countdown.co.nz/Content/Recipes/230232-Classic-SpagBol_810x520.jpg)
 
 > The best food I've ever eaten - Gordon Ramsay
