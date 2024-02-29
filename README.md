@@ -1,6 +1,6 @@
 # Chef James - Comfort Food Diary
 
-Only the most *amazing* recipes that will sooth any life quarrels that you may be experiencing and alleviate any stress, sorrow, and despair and replace it with the **ultimate** full-fillment, joy and happiness. 
+Only the most _amazing_ recipes that will sooth any life quarrels that you may be experiencing and alleviate any stress, sorrow, and despair and replace it with the **ultimate** full-fillment, joy and happiness.
 
 ## Recipes
 
@@ -9,16 +9,16 @@ Only the most *amazing* recipes that will sooth any life quarrels that you may b
 
 ## Reasons you should star ⭐ the repo!
 
-* For delicious recipes
-* Because I appreciate your support
-* To become happier today
+- For delicious recipes
+- Because I appreciate your support
+- To become happier today
 
 ## Dates published
 
-|Recipe|Date|
-|-----|-----|
-|Mac & cheese|2024-02-05 |
-|Spag bowl| 2024-03-03 |
+| Recipe       | Date       |
+| ------------ | ---------- |
+| Mac & cheese | 2024-02-05 |
+| Spag bowl    | 2024-03-03 |
 
 ### Relevant pictures
 
